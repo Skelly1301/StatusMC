@@ -1,5 +1,5 @@
 # StatusMC
-
+This bot uses the [mcstatus](https://github.com/py-mine/mcstatus) library
 ### Startup
 Create a `requirements.txt` file to install the required libraries to make the bot
 ```python
